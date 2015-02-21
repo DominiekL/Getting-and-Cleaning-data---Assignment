@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-data---Assignment
+# Getting and cleaning data
 
 The R script in this repository needs to be called from a working directory containing the datasets that can be found here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
@@ -14,3 +14,7 @@ This resulting file contains average values for each combination of:
 * Activity that has been measured
 
 The average values are only generated for the mean- and standard deviation-observations from the original data sets.
+
+# Codebook
+
+More information about the executed transformation in the script are explained in the Codebook in this same repository.
